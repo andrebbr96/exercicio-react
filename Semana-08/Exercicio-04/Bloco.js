@@ -1,0 +1,1 @@
+'As props são entradas que não podem ser alteradas dentro de um componente. Componentes devem, obrigatoriamente, apenas ler as props. Sendo assim, todos os componentes de React devem ser “puros” e não podem alterar nenhum valor das props.'
